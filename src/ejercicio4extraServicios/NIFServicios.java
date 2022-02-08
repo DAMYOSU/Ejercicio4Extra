@@ -27,6 +27,7 @@ public class NIFServicios {
      
      public void mostrar(NIFServicios b1, NIFEntidad a1) {
          System.out.println(" NIF  ***   "+a1.getDNI()+"-"+a1.getNIF()+ "  ***");
+         System.out.println("cambio de Marga");
      }
 }
 
